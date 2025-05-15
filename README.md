@@ -3,6 +3,10 @@
 🚀 Project Overview
 This project is an advanced Power BI dashboard designed to provide in-depth insights into Amazon Fashion sales performance using data from Amazon Fashion and Amazon Sales Reports. The dashboard enables users to explore sales metrics by product categories, regions and different time periods, offering a comprehensive view of sales trends and performance. With a user-friendly interface and interactive elements, it serves as a robust solution for sales analytics and performance tracking.
 
+![image alt](https://github.com/KaavyaVerma/Amazon_Fashlytics/blob/main/Overview_page.png)
+
+![image alt](https://github.com/KaavyaVerma/Amazon_Fashlytics/blob/main/Products.png)
+
 📊 Key Features
 
 ✅ Interactive Dashboard:
@@ -37,6 +41,11 @@ This dashboard leverages the following analytical techniques:
 - Seller Count: Number of sellers contributing to the sales data.
 - City and State-wise Sales: Sales distribution across different regions.
 - Product Performance: Sales analysis for individual products.
+
+![image alt](https://github.com/KaavyaVerma/Amazon_Fashlytics/blob/main/Products_page.png)
+
+![image alt](https://github.com/KaavyaVerma/Amazon_Fashlytics/blob/main/Product_Veiw_page.png)
+
 🔍 Key Sales Trends 
 
 📈 1. Seasonal Sales Trends:
